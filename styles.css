@@ -1,0 +1,120 @@
+body {
+    background-color: #d9d9d9;
+  }
+
+/* COLOR Start*/
+#C01{
+    Background-color: #ffff;
+}
+
+#C02{
+    Background-color: rgba(0, 0, 0, 0.5);
+    
+}
+
+/* COLOR End */
+
+/* DIV Box Start */
+#BoxCategory_1{
+    background-color: #eb1010;
+}
+
+#BoxCategory_2{
+    background-color: #faf601;
+}
+
+#BoxCategory_3{
+    background-color: #3feb10;
+}
+
+#BoxCategory_4{
+    background-color: #10ebe7;
+}
+
+#BoxCategory_5{
+    background-color: #1043eb;
+}
+
+#BoxCategory_6{
+    background-color: #e010eb;
+}
+
+#BoxCategory_7{
+    background-color: #ff0195;
+}
+
+#BoxCategory_8{
+    background-color: #00000035;
+}
+/* DIV Box End */
+
+/* TEXT Style Start */
+#TEXT_01{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    font-size: 25pt;
+}
+
+#TEXT_02{
+    font-family: 'Dangrek', cursive;
+    text-align: center;
+    font-size: 50pt;
+}
+
+#TEXT_03{
+    font-family: 'Combo', cursive;
+    text-align: center;
+    font-size: 45pt;
+}
+
+#TEXT_04{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    font-size: 40pt;
+}
+
+#TEXT_05{
+    font-family: 'Inter', sans-serif;
+    text-align: left;
+    font-size: 25pt;
+}
+
+#TEXT_06{
+    font-family: 'Dangrek', cursive;
+    text-align: center;
+    font-size: 40pt;
+}
+
+#TEXT_07{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    font-size: 35pt;
+    color: white;
+}
+
+#TEXT_08{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    font-size: 20pt;
+    color: white;
+}
+
+#TEXT_09{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    font-size: 20pt;
+}
+
+#TEXT_10{
+    font-family: 'Dangrek', cursive;
+    text-align: center;
+    font-size: 30pt;
+}    
+
+#TEXT_11{
+    font-family: 'Combo', sans-serif;
+    text-align: center;
+    font-size: 20pt;
+}
+
+/* TEXT Style End */
